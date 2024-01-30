@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:quien_me_debe/home_page/home_page.dart';
-import 'package:quien_me_debe/login_page/login_controller.dart';
+import 'package:quien_me_debe/presentation/home_page/home_page.dart';
+
+import 'login_controller.dart';
 
 class LoginPage extends StatelessWidget {
   LoginPage({super.key});
